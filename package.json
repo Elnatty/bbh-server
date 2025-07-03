@@ -1,0 +1,16 @@
+{
+  "name": "bug-bounty-server",
+  "version": "1.0.0",
+  "description": "Express server for bug bounty testing with comprehensive logging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
